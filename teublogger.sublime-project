@@ -1,0 +1,18 @@
+{
+  "folders": [{
+    "path": ".",
+    "name": "teublogger",
+    "folder_exclude_patterns": [
+    ],
+    "file_exclude_patterns": [
+      "*.sublime-project*",
+      "*.sublime-workspace*"
+    ]
+  }],
+  "settings": {
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "default_line_ending": "unix",
+    "trim_trailing_white_space_on_save": true
+  }
+}
